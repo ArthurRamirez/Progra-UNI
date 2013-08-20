@@ -1,0 +1,4 @@
+Grupos y gerarquia de clases
+
+todo el proseso de entrada y salida en java se hace atraves de flujos, en los programas a que crear Objetos "String"
+y en muchas ocasiones hacer uso de los objetos "In, out" de la clase "System" ; los flujos de datos, caracteres o Bytes puedes ser de entrada y salida. java declara 2 clases que derivan directamente de la clase "input String y output String" ambas son abstractas y declaran metodos que deven de definirse en sus clases derivadas; la primera es la ase de todas las clases definidas para flujos de entrada; la segunda definida para flujos de salida.

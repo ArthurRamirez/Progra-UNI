@@ -1,0 +1,3 @@
+una farmaciaquiere mantener un Stock de medicamentos en un archivo; cada producto le interesa guardar el codigo, precio y descripcion. Realiza un Programa que genere el Archivo y almacene los Objetos de manera secuencial.
+
+Proyecto en Java

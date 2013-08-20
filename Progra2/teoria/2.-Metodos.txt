@@ -1,0 +1,62 @@
+boolean canRead()
+Devuelve true si se puede leer el fichero
+
+boolean canWrite()
+Devuelve true si se puede escribir en el fichero
+
+boolean createNewFile()
+Crea el fichero asociado al objeto File. Devuelve true si se ha podido crear. Para poder crearlo el fichero no debe existir. Lanza una excepción del tipo IOException.
+
+boolean delete()
+Elimina el fichero o directorio. Si es un directorio debe estar vacío. Devuelve true si se ha podido eliminar.
+
+boolean exists()
+Devuelve true si el fichero o directorio existe
+
+String getName()
+Devuelve el nombre del fichero o directorio
+
+String getAbsolutePath()
+Devuelve la ruta absoluta asociada al objeto File.
+
+String getCanonicalPath()
+Devuelve la ruta única absoluta asociada al objeto File. Puede haber varias rutas absolutas asociadas a un File pero solo una única ruta canónica. Lanza una excepción del tipo IOException.
+
+String getPath()
+Devuelve la ruta con la que se creó el objeto File. Puede ser relativa o no.
+
+String getParent()
+Devuelve un String conteniendo el directorio padre del File. Devuelve null si no tiene directorio padre.
+
+File getParentFile()
+Devuelve un objeto File conteniendo el directorio padre del File. Devuelve null si no tiene directorio padre.
+
+boolean isAbsolute()
+Devuelve true si es una ruta absoluta
+
+boolean isDirectory()
+Devuelve true si es un directorio válido
+
+boolean isFile()
+Devuelve true si es un fichero válido
+
+long lastModified()
+Devuelve un valor en milisegundos que representa la última vez que se ha modificado (medido desde las 00:00:00 GMT, del 1 de Enero de 1970). Devuelve 0 si el fichero no existe o ha ocurrido un error.
+
+long length()
+Devuelve el tamaño en bytes del fichero. Devuelve 0 si no existe. Devuelve un valor indeterminado si es un directorio.
+
+String[] list()
+Devuelve un array de String con el nombre de los archivos y directorios que contiene el directorio indicado en el objeto File. Si no es un directorio devuelve null. Si el directorio está vacío devuelve un array vacío.
+
+String[] list(FilenameFilter filtro)
+Similar al anterior. Devuelve un array de String con el nombre de los archivos y directorios que contiene el directorio indicado en el objeto File que cumplen con el filtro indicado.
+
+boolean mkdir()
+Crea el directorio. Devuelve true si se ha podido crear.
+
+boolean mkdirs()
+Crea el directorio incluyendo los directorios no existentes especificados en la ruta padre del directorio a crear. Devuelve true si se ha creado el directorio y los directorios no existentes de la ruta padre.
+
+boolean renameTo(File dest)
+Cambia el nombre del fichero por el indicado en el parámetro dest. Devuelve true si se ha realizado el cambio.
