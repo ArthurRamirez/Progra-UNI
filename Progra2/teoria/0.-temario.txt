@@ -1,0 +1,30 @@
+1.-archivos
+ 	1.1 introduccion a archivos
+ 	1.2 la clase archivo
+	1.3 archivos de texto
+ 	1.4 arcivos secuensiales
+	1.5 archivos directos
+ 	1.6 archivos especiales
+2.- diseño de interfaces graficas de usario(AWT)
+	2.1 INTRODUCCION AL METODO GRAFICO
+	2.2 OBJETOS CONTENEDORES
+	2.3 GERARQUIA DE LOS CONTENEDORES
+	2.4 COMPONENTES
+	2.5 MANEJADORES DE ESQUEMAS
+	2.6 MANEJO DE EVENTOS
+	2.7 MENUS
+	2.8 GRAFICOS
+3.- Diseño de interfaces graficas de usario(Swing)
+	3.1 objetos contenedores
+	3.2 objetos componentes
+4.- Creacion de paginas web
+	4.1 Fundamentos de la clase
+	4.2 arquitectura de una clase
+	4.3 estructura de una clase
+	4.4 metodos sensillos de visualizasion
+	4.5 usos de la barra de estado
+	4.6 HTML
+	4.7 Parametros
+	4.8 Salida de consola 
+5.- Clases y metodos espesiales
+	5.1
