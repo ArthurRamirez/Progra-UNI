@@ -1,0 +1,1 @@
+utilizando la Tariea numero 1, se requiere que al re-abrir el Programa te de la Obcion de crear un Archivo nuevo y continuar agregando Productos a este las veces uno vea conveniente, esto se realizara utilizando el codigo de la farmacia.

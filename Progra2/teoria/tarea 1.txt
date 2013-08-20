@@ -1,38 +1,3 @@
 una farmaciaquiere mantener un Stock de medicamentos en un archivo; cada producto le interesa guardar el codigo, 
 precio y descripcion. Realiza un Programa que genere el Archivo y almacene los Objetos de manera secuencial
 
-ALGORITMO	
-
-	pakage ;
-
-		io.File;
-
-		util.scanner;
-
-	public class;
-
-	main principal;
-
-		obcion = 0;
-		archivo = null;
-		scanner = archivo;
-		scanner = teclado;
-
-
-		sout	Bienvenido al sistema de Stock
-
-		sout	desea crear un nuevo inventario ?
-
-		opcion = teclado.nextint;
-
-		if (opcion = si ) {
-
-			archivo = ruta predeterminada;
-			
-		}
-
-		
-
-
-
-	fin;
