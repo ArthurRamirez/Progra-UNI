@@ -1,0 +1,22 @@
+archivo.- es un conjunto ordenado de registros que contienen datos acerca de un objetoo sujeto del
+          proceso de datos
+
+Logica.- es un conjunto de datos que describen un objeto.
+
+datos.- descrive un atributo o caracteristica de un objeto.
+
+llave o clave .- es un dato o grupo de datos dentro del registro que sirve para identificar
+				de manera unica cada registro.
+
+caracteristicas de los archivos:
+	1) son idependientes con respecto a los programas.
+	2) un archivo pueden utilizarlos distintos programas en distintos momentos.
+	3) la informacion almasenada es permanente.
+	4) tienen gran capacidad de almacenamiento.
+	5) la recuperacion de datos se hace con rapidez.
+	6) su indice de confiabilidad es muy alto.
+
+partes de un registro.- parte maestra que esta definida por la informacion que esta sujeta a pocos cambios, y
+                        sirve como historia, identificasion y referencia.
+                        parte secundario esta definida por la informacion que esta sujeta a cambios constantes,
+                        sobre todo cambios de expansion.
