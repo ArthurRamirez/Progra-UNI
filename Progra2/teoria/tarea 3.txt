@@ -1,0 +1,13 @@
+el programa deve Crear los siguientes archivos con lo siguiente:
+
+
+*Alta_alumno (archivo1)
+matricula, nombre, apellido_paterno. //
+
+*Kardex (archivo2)
+calificacion1, calificacion2, califcacion3, promedio ///
+
+imprimir (archivo1[?] archivo2[?])     // como se incluiran mas de un alumno se requiere que 
+                                        al imprimir imprima los datos del primer alumno con los 
+                                        datos de su kardex del mismo alumno, y no imprimir la 
+                                        calificasion de cualquier otro compañero.  
