@@ -3,13 +3,16 @@ clase File.
 es una lista de archivos relacionados entre si y organizados para un proposito espesifico:
 
 un archivo de una clase escolar, contiene un conjunto de registros de los estudiantes de esa clase. un archivo es una 
-estructura diseñada para contener datos que estan organizados de tal modo que puedan  recuperarse facilmente, borrarse, actualizarse, o almacenarse de nuevo en el archivo.
+estructura diseñada para contener datos que estan organizados de tal modo que puedan  recuperarse facilmente, borrarse,
+actualizarse, o almacenarse de nuevo en el archivo.
 
-segun las caracteristicas de soporte empleado y el modo en el que se organizan lod registros, se consideran dos tipos de accesos a los registros de un archivos: 
+segun las caracteristicas de soporte empleado y el modo en el que se organizan lod registros, se consideran dos tipos de 
+accesos a los registros de un archivos: 
 
 a)secuensial
 b)Directo
 
 un archivo consta de un nombre ademas de la ruta que indica, donde se ubica.
 
-la clase File, define como metodos para conocer propiedades de archivo, tales como la ulatima modificasion, permisos de accesos, temarios etc.
+la clase File, define como metodos para conocer propiedades de archivo, tales como la ulatima modificasion, 
+permisos de accesos, temarios etc.
